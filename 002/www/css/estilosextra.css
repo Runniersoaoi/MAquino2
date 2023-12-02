@@ -1,0 +1,18 @@
+*{
+    font-family: 'Alkatra', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.titulo{
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-weight: 900px;
+    text-decoration: none;
+}
+.navPrincipal {
+    background-color: #292A69;
+    border-bottom: solid white 3px;
+}
+.titulo:hover{
+    color: #f36d21;
+    cursor: pointer;
+}

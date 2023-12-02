@@ -1,0 +1,51 @@
+.titulo:hover{
+    color: #f36d21;
+    cursor: pointer;
+}
+.nav-link:hover{
+    color: #f36d21;
+    cursor: pointer;
+}
+.carousel-item{
+    height: 333px;
+    width: 657.33px;
+}
+.img{
+    object-fit: cover;
+}
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 50vw;
+  }
+.cardNosotros{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img-vision{
+    height: 270px;
+}
+.secPrincipal{
+    margin-left: 50px;
+}
+.containwere{
+    margin-top: 10px;
+}
+.image-servicios{
+    height: 80px;
+    margin-top: 50px;
+}
+.image-servicios1{
+    height: 100px;
+    margin-top: 40px;
+}
+.container-img-contactenos{
+    height: 298px;
+    width: 300px;
+}
+.img-contactenos{
+    object-fit: cover;
+    height: 298px;
+    width: 300px;
+}
